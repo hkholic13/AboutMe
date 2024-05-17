@@ -12,9 +12,10 @@ Hi there, I'm <a href="https://hkholic13.github.io/Himanshi-Portfolio/" target="
 I'm a Full-Stack Web Developer 💻, Software Engineer 🧑‍💻, and an Artist 🎨!
 </h2>
 
-<p align="left">
-I am passionate about the entire process of developing creative and interactive websites. I thrive on the challenge of optimizing performance and user experience while meeting new people and collaborating with diverse teams. I enjoy discovering innovative ways to hide and reveal features, understanding user behavior, and anticipating where users are likely to engage.
-</p>
+<div>
+    <img align="right" src="https://user-images.githubusercontent.com/74038190/216655859-f66df97b-6767-4ab2-b6f4-a9cba3ff3591.gif" alt="learning gif" width="150">
+<p align"left"> I am passionate about the entire process of developing creative and interactive websites. I thrive on the challenge of optimizing performance and user experience while meeting new people and collaborating with diverse teams. I enjoy discovering innovative ways to hide and reveal features, understanding user behavior, and anticipating where users are likely to engage.</p>
+</div>
 
 ### 🤝 Connect with me:
 
@@ -44,9 +45,6 @@ I am passionate about the entire process of developing creative and interactive 
       <li>GraphQL</li>
     </ul>
   </div>
-  <div>
-    <img src="https://user-images.githubusercontent.com/74038190/216655859-f66df97b-6767-4ab2-b6f4-a9cba3ff3591.gif" alt="learning gif" width="150">
-  </div>
 </div>
 
 ## 💼 Technical Skills
@@ -59,16 +57,10 @@ I am passionate about the entire process of developing creative and interactive 
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&color=336791)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=CC0000)
-
-</br>
-
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
 ![](https://img.shields.io/badge/Code-TailwindCSS-informational?style=flat&logo=TailwindCSS&color=7952B3)
-
-</br>
-
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&color=00C7B7)
 ![](https://img.shields.io/badge/Tools-Spinnaker-informational?style=flat&logo=spinnaker&color=00C7B7)
