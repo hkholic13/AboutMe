@@ -20,7 +20,7 @@ I'm a Full-Stack Web Developer 💻, Software Engineer 🧑‍💻, and an Artis
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/himanshi-k/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Himanshi Khatri | LinkedIn" width="21px"/></a>
-<a href="https://www.linkedin.com/in/himanshi-k/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Himanshi Khatri | Instagram" width="21px"/></a>
+<a href="https://www.instagram.com/_khatri_himanshi_/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Himanshi Khatri | Instagram" width="21px"/></a>
 <a href="https://medium.com/@himanshik"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Himanshi Khatri | Medium" width="21px"/></a>
 
 </br>
